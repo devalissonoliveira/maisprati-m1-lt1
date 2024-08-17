@@ -1,0 +1,17 @@
+{
+  "name": "maisprati-m1-lt1",
+  "version": "1.0.0",
+  "description": "Exercícios que contemplam as operações fundamentais, estruturas de controle condicional e de repetição.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "install": "^0.13.0",
+    "npm": "^10.8.2",
+    "prompt-sync": "^4.2.0"
+  }
+}
